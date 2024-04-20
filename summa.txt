@@ -1,7 +1,7 @@
 aiohttp
 aiofiles
 aioshutil
-anytree==2.8.0
+anytree
 apscheduler
 aria2p
 asyncio
@@ -23,7 +23,7 @@ gunicorn
 git+https://github.com/zevtyardt/lk21.git
 httpx
 langcodes[data]
-lxml>=4.9.1
+lxml
 motor
 mutagen
 markdown
@@ -33,7 +33,7 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrofork==2.2.10
+pyrogram
 python-dotenv
 python-magic
 qbittorrent-api
@@ -43,6 +43,6 @@ telegraph
 tenacity
 tgcrypto
 uvloop
-urllib3==1.26
+urllib3
 xattr
-yt-dlp==2023.3.4
+yt-dlp
